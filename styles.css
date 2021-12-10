@@ -52,6 +52,7 @@ hr {
   opacity: 0.6;
   background-color: hsl(178, 100%, 50%);
   border-radius: 1rem;
+  cursor: pointer;
 }
 
 .title {
@@ -63,6 +64,7 @@ hr {
 
 .title:hover {
   color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
 .info {
@@ -122,6 +124,7 @@ hr {
 
 .ending:hover {
   color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 
 /*<img class="profile-pic" src="images/image-equilibrium.jpg">*/
